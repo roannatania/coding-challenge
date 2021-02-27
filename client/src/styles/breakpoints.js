@@ -1,0 +1,5 @@
+export const tablet = '640px'
+export const tablet768 = '768px'
+export const laptop = '1024px'
+export const desktop = '1300px'
+export const xl = '1700px'
